@@ -1,9 +1,5 @@
 !SLIDE
 
-# Five things I love about JS #
-
-!SLIDE incremental transition=fade
-
 # Körültekintő #
 
     alert("Ezt nem kellett volna")
