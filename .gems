@@ -1,1 +1,3 @@
-showoff --source gemcutter.org
+bluecloth
+nokogiri
+showoff
